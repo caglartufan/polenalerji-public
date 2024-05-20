@@ -1,5 +1,9 @@
 # Ankara University Pollen Allergy Bulletin Website
 
+## Link to the project
+
+[Ankara Üniversitesi Polen Alerji Bülteni (https://polenalerji.ankara.edu.tr/)](https://polenalerji.ankara.edu.tr/)
+
 ## :pencil: About the project
 
 I have developed this project while I was working as a part-time student at Ankara University IT Department. This website provides a 3-day pollen forecast of Ankara, capital of Türkiye. It also has nice features to provide useful information such as about the project team, pollens, a yearly pollen calender which shows what pollen is usualy at rise in what month of the year, technical details of the pollen measurement devices and tools, video archive to the visitors of the website. Website also has a minimal CMS integrated to create and share content related to types of pollens etc.
