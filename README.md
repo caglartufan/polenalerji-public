@@ -6,6 +6,8 @@ I have developed this project while I was working as a part-time student at Anka
 
 I have completed this project alone since it didn't have large amount of features to be integrated. To keep it simple and light-weight I preferred to depend on as little 3rd party library or tools as possible. Only 3rd party library or tool used in this project is CKEditor which is a WYSIWYG, rich text editor. Other than that everthing else is built with vanilla HTML, CSS & SCSS, JS, PHP & PDO, SQL, MsSQL Server. I used OOP and, applied clean coding practices and SOLID principles to increase maintainability and readibility of the codebase for future developers. I built an administration dashboard to manage and modify content of the website such as page contents (both generally-static pages such as "Hakkımızda (About Us)", "Polenler (Pollens)", "Basında Biz (Us in the Press)" and other dynamic pages) etc., navigation menu, general website settings such as social media links and page URLs, slider content, showcased photo & video. Data related weather forecast such as temperature, humidity, wind speed are pulled from the service provided by the MGM (Meteoroloji Genel Müdürlüğü or General Directorate of Meteorology) upon each request to website. Data related to pollen forecast is similarly pulled from the service provided by the MGM daily, using a cron job which updates and adds new entries to database to show on website.
 
+**IMPORTANT NOTE:** This repository only contains a `README.md` file to describe the project in my Github profile. I can not share or add the codes to this repository due to privacy of the project.
+
 ## :microscope: Technologies used
 
 HTML, CSS, SCSS, JS, CKEditor, PHP & PDO, OOP, SQL, MsSQL Server
